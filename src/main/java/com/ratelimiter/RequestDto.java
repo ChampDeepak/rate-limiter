@@ -1,4 +1,4 @@
-package src.main.java.com.ratelimiter;
+package com.ratelimiter;
 
 /**
  * Data transfer object for requests.

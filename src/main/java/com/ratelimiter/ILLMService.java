@@ -1,4 +1,4 @@
-package src.main.java.com.ratelimiter;
+package com.ratelimiter;
 
 /**
  * Interface for LLM Service.

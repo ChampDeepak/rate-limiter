@@ -1,4 +1,4 @@
-package src.main.java.com.ratelimiter;
+package com.ratelimiter;
 
 /**
  * LLM Service that makes external API calls.

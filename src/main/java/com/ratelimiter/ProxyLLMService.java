@@ -1,4 +1,4 @@
-package src.main.java.com.ratelimiter;
+package com.ratelimiter;
 
 import java.util.concurrent.TimeUnit;
 
