@@ -455,6 +455,7 @@ mvn -version
 
 ```bash
 # Compile and run the client demo
+mvn clean compile
 mvn exec:java
 ```
 
